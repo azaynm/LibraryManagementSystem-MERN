@@ -5,3 +5,5 @@ In order to run the project you have to create a cloudinary account and give the
 CLOUD_NAME = 
 API_KEY = 
 API_SECRET = 
+
+Thank you!
